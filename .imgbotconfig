@@ -1,5 +1,4 @@
 {
-    "schedule": "daily",
     "ignoredFiles": [ 
         "assets/*",
         "css/*",
@@ -8,5 +7,5 @@
         "js/*",
         "script/*"
     ],
-    "aggressiveCompression": "false"
+    "aggressiveCompression": "true"
 }
